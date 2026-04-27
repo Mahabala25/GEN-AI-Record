@@ -1,0 +1,66 @@
+Act as an expert academic data analyst.
+
+I am providing a CSV dataset containing student academic performance.
+
+Analyze the dataset and generate a detailed Student Marks Analysis Report.
+prompt 1
+
+Dataset columns include:
+Student Name, subject-wise marks, attendance.
+
+Your tasks:
+1. Calculate total marks for each student.
+2. Calculate average marks.
+3. Assign grades based on:
+   A = 90 and above
+   B = 75 to 89
+   C = 50 to 74
+   D = below 50
+4. Identify top performers.
+5. Generate subject-wise average performance.
+6. Find pass/fail statistics.
+7. Analyze attendance and performance relation.
+8. Provide recommendations for improvement.
+
+CSV Data:
+(Paste CSV data here)
+
+Output format:
+- Overall Class Summary
+- Top Performers
+- Subject-wise Insights
+- Grade Distribution
+- Pass/Fail Summary
+- Attendance Correlation
+- Recommendations
+
+prompt2
+
+Act as an expert academic data analyst and front-end content strategist.
+
+Using the following Student Marks Analysis Report insights, design a professional educational landing page.
+
+Target audience:
+- School administrators
+- Teachers
+- Parents
+
+Requirements:
+1. Create a hero section with title and subtitle.
+2. Add overview statistics cards.
+3. Add top performers section.
+4. Add subject-wise performance section.
+5. Add grade distribution section.
+6. Add pass/fail summary.
+7. Add attendance-performance correlation.
+8. Add recommendations for improvement.
+9. Mention suggested charts for each section.
+10. Use professional and simple educational tone.
+
+Collected Insights:
+(Paste the above generated insights here)
+
+Output order:
+1. First provide section-wise content plan
+2. Then generate full HTML landing page with headings and placeholder values
+
